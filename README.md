@@ -98,4 +98,4 @@ AI 기반 직무 추천 기능
 이번 경험은 아이디어를 실제 서비스로 발전시키는 데 중요한 기반이 되었고, 앞으로 실제 Demo와 MVP를 만드는 데 도움을 줄 수 있는 방향성을 얻을 수 있었습니다.
 
 
-KakaoTalk_Photo_2025-11-30-17-55-18
+![우리 팀 캠프 사진](https://github.com/yourRepo/yourProject/assets/12345678/xxxxx)
