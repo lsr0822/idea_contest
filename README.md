@@ -97,5 +97,4 @@ AI 기반 직무 추천 기능
 직무 추천뿐 아니라 시뮬레이션을 통한 직무 체험 기능이 큰 강점이 될 수 있다는 점도 확인했습니다.
 이번 경험은 아이디어를 실제 서비스로 발전시키는 데 중요한 기반이 되었고, 앞으로 실제 Demo와 MVP를 만드는 데 도움을 줄 수 있는 방향성을 얻을 수 있었습니다.
 
-
-![우리 팀 캠프 사진](https://github.com/yourRepo/yourProject/assets/12345678/xxxxx)
+![Image](https://github.com/user-attachments/assets/0e7cad84-0094-4df9-a29c-9f953325fdd6)
